@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Created by Marin Rusi -->
 <html>
 	<head>
 		<script>var number = 0; </script>
